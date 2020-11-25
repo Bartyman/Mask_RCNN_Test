@@ -133,16 +133,17 @@ class CustomDataset(utils.Dataset):
             # the image. This is only managable since the dataset is tiny.
             print("numids",num_ids)
             image_path = os.path.join(dataset_dir, a['filename'])
-            image = skimage.io.imread(image_path)
-            height, width = image.shape[:2]
+            if os.path.exists(image_path):
+                   image = skimage.io.imread(image_path)
+                   height, width = image.shape[:2]
 
-            self.add_image(
-                "object",  ## for a single class just add the name here
-                image_id=a['filename'],  # use file name as a unique image id
-                path=image_path,
-                width=width, height=height,
-                polygons=polygons,
-                num_ids=num_ids)
+                   self.add_image(
+                       "object",  ## for a single class just add the name here
+                       image_id=a['filename'],  # use file name as a unique image id
+                       path=image_path,
+                       width=width, height=height,
+                       polygons=polygons,
+                       num_ids=num_ids)
 
     def load_mask(self, image_id):
         """Generate instance masks for an image.
