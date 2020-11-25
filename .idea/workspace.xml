@@ -19,105 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b91c4c1-2f22-4cb0-9367-62d9c364ab85" name="Default Changelist" comment="updated">
-      <change afterPath="$PROJECT_DIR$/dataset/Old/train/glass1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Old/train/glass10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Old/train/glass11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Old/train/glass12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Old/train/glass2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Old/train/glass3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Old/train/glass4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Old/train/glass5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Old/train/glass6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Old/train/glass7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Old/train/glass8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Old/train/glass9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Old/train/paper10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Old/train/paper11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Old/train/paper12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Old/train/paper13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Old/train/paper14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Old/train/paper15.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Old/train/paper16.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Old/train/paper5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Old/train/paper6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Old/train/paper7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Old/train/paper8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Old/train/paper9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Old/train/trash12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Old/train/trash13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Old/train/trash15.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Old/train/trash16.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Old/train/trash17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Old/train/trash18.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Old/train/trash19.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Old/train/trash20.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Old/train/trash21.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Old/train/trash22.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Old/train/trash23.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Old/train/trash24.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Old/train/via_reg_data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Old/val/glass85.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Old/val/glass88.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Old/val/glass96.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Old/val/glass97.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Old/val/glass98.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Old/val/glass99.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Old/val/paper61.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Old/val/paper62.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Old/val/paper63.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Old/val/paper64.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Old/val/paper65.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Old/val/paper66.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Old/val/trash66.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Old/val/trash67.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Old/val/trash68.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Old/val/trash69.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Old/val/trash71.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Old/val/trash73.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Old/val/trash74.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Old/val/trash75.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/Old/val/via_reg_data.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mask_RCNN/BINGO.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mask_RCNN/BINGO.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/train/glass1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/train/glass10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/train/glass11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/train/glass12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/train/glass2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/train/glass3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/train/glass4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/train/glass5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/train/glass6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/train/glass7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/train/glass8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/train/glass9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/train/paper10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/train/paper11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/train/paper12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/train/paper13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/train/paper14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/train/paper15.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/train/paper16.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/train/paper5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/train/paper6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/train/paper7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/train/paper8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/train/paper9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/train/trash12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/train/trash13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/train/trash15.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/train/trash16.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/train/trash17.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/train/trash18.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/train/trash19.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/train/trash20.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/train/trash21.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/train/trash22.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/train/trash23.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/train/trash24.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/train/via_reg_data.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/final_model.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/final_model.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="5b91c4c1-2f22-4cb0-9367-62d9c364ab85" name="Default Changelist" comment="updated" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -193,7 +95,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606304511878</updated>
-      <workItem from="1606304513699" duration="4341000" />
+      <workItem from="1606304513699" duration="4692000" />
     </task>
     <task id="LOCAL-00001" summary="updated">
       <created>1606305648447</created>
@@ -223,7 +125,21 @@
       <option name="project" value="LOCAL" />
       <updated>1606307051599</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="updated">
+      <created>1606309234879</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1606309234879</updated>
+    </task>
+    <task id="LOCAL-00006" summary="updated">
+      <created>1606309517534</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1606309517534</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -277,10 +193,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="782" y="345" key="SettingsEditor/3840.0.1536.840/0.0.2560.1400/7680.0.1920.1040@0.0.2560.1400" timestamp="1606307731266" />
-    <state x="873" y="433" key="Vcs.Push.Dialog.v2" timestamp="1606307056164">
+    <state x="873" y="433" key="Vcs.Push.Dialog.v2" timestamp="1606309413789">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="873" y="433" key="Vcs.Push.Dialog.v2/3840.0.1536.840/0.0.2560.1400/7680.0.1920.1040@0.0.2560.1400" timestamp="1606307056164" />
+    <state x="873" y="433" key="Vcs.Push.Dialog.v2/3840.0.1536.840/0.0.2560.1400/7680.0.1920.1040@0.0.2560.1400" timestamp="1606309413789" />
     <state x="1098" y="614" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606305188858">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
