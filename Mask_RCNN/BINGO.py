@@ -83,9 +83,9 @@ class CustomDataset(utils.Dataset):
         """
         # Add classes.
         self.add_class("object", 1, "Wood")
-        self.add_class("object", 2, "brick")
-        self.add_class("object", 3, "soil")
-        self.add_class("object", 4, "fireExtinguisher")
+        self.add_class("object", 2, "Brick")
+        self.add_class("object", 3, "Soil")
+        self.add_class("object", 4, "FireExtinguisher")
 
         # Train or validation dataset?
         assert subset in ["train", "val"]
@@ -123,7 +123,7 @@ class CustomDataset(utils.Dataset):
             polygons = [r['shape_attributes'] for r in a['regions']] 
             objects = [s['region_attributes']['name'] for s in a['regions']]
             #print("objects:",objects)
-            name_dict = {"Wood": 1,"brick": 2,"soil": 3,"fireExtinguisher": 4}
+            name_dict = {"Wood": 1,"Brick": 2,"Soil": 3,"FireExtinguisher": 4}
             # key = tuple(name_dict)
             num_ids = [name_dict[a] for a in objects]
      
