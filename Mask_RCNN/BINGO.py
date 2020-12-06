@@ -106,7 +106,7 @@ class CustomDataset(utils.Dataset):
         #   'size': 100202
         # }
         # We mostly care about the x and y coordinates of each region
-        annotations1 = json.load(open(os.path.join(dataset_dir, jsonFile))) #"Todd_wood_project_25Nov2020_23h30m.json"))) #"via_region_data.json")))
+        annotations1 = json.load(open(os.path.join(dataset_dir, jsonFile)))
         # print(annotations1)
         annotations = list(annotations1.values())  # don't need the dict keys
 
