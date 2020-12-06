@@ -2161,6 +2161,7 @@ class MaskRCNN():
         # Add Losses
         # First, clear previously set losses to avoid duplication
         self.keras_model._losses = []
+        self.keras_model.metrics_tensors = []
         self.keras_model._per_input_losses = {}
         loss_names = [
             "rpn_class_loss",  "rpn_bbox_loss",
